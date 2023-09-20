@@ -2,6 +2,7 @@
      margin: 0;
      padding: 0;
 }
+
 html,
 body {
      height: 100%;
@@ -139,14 +140,14 @@ body {
      content: '';
      height: 110px;
      width: 3px;
-     background: aqua;
+     background: black;
 }
 .sec:after {
      position: absolute;
      content: '';
      height: 35px;
      width: 7px;
-     background: aqua;
+     background: black;
      top: 105px;
      border-radius: 5px;
 }
